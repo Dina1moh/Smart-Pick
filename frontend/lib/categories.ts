@@ -1,0 +1,18 @@
+export const PRODUCT_CATEGORIES = [
+  "Electronics",
+  "Smartphones",
+  "Laptops",
+  "Tablets",
+  "Headphones",
+  "Gaming",
+  "Cameras",
+  "Wearables",
+  "Home",
+  "Kitchen",
+  "Beauty",
+  "Fashion",
+  "Sports",
+  "Toys",
+  "Automotive",
+  "Books",
+];
